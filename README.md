@@ -1,4 +1,4 @@
-# Heart Disease Prediction (Advanced)
+# Heart Disease Prediction
 
 This project uses machine learning techniques to predict the presence of heart disease based on clinical parameters. It includes exploratory data analysis (EDA), feature engineering, model training, evaluation, and visualization.
 
@@ -27,7 +27,7 @@ Save the dataset in the `data/` directory.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/khadijaanwar/Heart_Disease_Prediction_Task-3
 cd heart-disease-prediction
 pip install -r requirements.txt
 ```
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Then open the notebook:
 
 ```bash
-jupyter notebook Heart_Disease_Prediction_Advanced.ipynb
+jupyter notebook Heart_Disease_Prediction.ipynb
 ```
 
 ## 📊 Example Output
